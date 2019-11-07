@@ -1,0 +1,3 @@
+/*! /wp-content/themes/kesvat-new/assets/map-sdk/map.js */
+if($('#gmap_2').length>0){$(document).ready(function(){var map=$.sMap({element:'#gmap_2',presets:{latlng:{lat:$('#gmap_2').data('lat'),lng:$('#gmap_2').data('lng'),},zoom:12,},});$.sMap.layers.static.build();var marker=$.sMap.features.marker.create({name:'demo-marker',popup:{title:{html:'آراد موبایل اینجاست',i18n:'',},description:{html:'توضیحات و آدرس آراد موبایل رو اینجا مینویسیم',i18n:'',},custom:!1,},latlng:{lat:$('#gmap_2').data('lat'),lng:$('#gmap_2').data('lng')},icon:icons.default.blue,popupOpen:!0,pan:!0,on:{click:function(){console.log('Click callback.')},contextmenu:function(){console.log('Contextmenu callback.')},},toolbar:[],})})}
+;

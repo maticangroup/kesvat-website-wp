@@ -1,0 +1,216 @@
+# Translation of Plugins - Velvet Blues Update URLs - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Velvet Blues Update URLs - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-09 16:20:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Velvet Blues Update URLs - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://www.velvetblues.com/"
+msgstr "http://www.velvetblues.com/"
+
+#. Author of the plugin
+msgid "VelvetBlues.com"
+msgstr "VelvetBlues.com"
+
+#. Description of the plugin
+msgid "This plugin <strong>updates all urls in your website</strong> by replacing old urls with new urls. To get started: 1) Click the \"Activate\" link to the left of this description, and 2) Go to your <a href=\"tools.php?page=velvet-blues-update-urls.php\">Update URLs</a> page to use it."
+msgstr ""
+"این افزونه <strong>همه لینک‌‌ها در وب سایت شما</strong> را با جایگزینی آدرس‌های قدیمی با آدرس‌های جدید بروزرسانی می کند. \n"
+"برای شروع: 1) روی لینک \"فعال کردن\" در سمت راست این توضیح کلیک کنید. 2) برای استفاده از این افزونه به، <a href=\"tools.php?page=velvet-blues-update-urls.php\">بروزرسانی لینک‌ها</a> بروید."
+
+#. Plugin URI of the plugin
+msgid "http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/"
+msgstr "http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/"
+
+#. Plugin Name of the plugin
+msgid "Velvet Blues Update URLs"
+msgstr "بروز رسانی لینک‌ها"
+
+#: velvet-blues-update-urls.php:301
+msgid "We will backup your website and move it for $75 OR update your URLs for only $29."
+msgstr "ما از وب سایت شما پشتیبان گیری می‌کنیم و با $75 آن را انتقال می‌دهیم یا لینک‌‌های شما را تنها با 29 دلار بروز رسانی می‌کنیم."
+
+#: velvet-blues-update-urls.php:293
+msgid "Get support at the %s plugin page%s."
+msgstr "دریافت پشتیبانی در صفحه افزونه %s%s "
+
+#: velvet-blues-update-urls.php:292
+msgid "Need help?"
+msgstr "کمک می‌خواهید؟"
+
+#: velvet-blues-update-urls.php:287
+msgid "Update URLs NOW"
+msgstr "لینک‌ها را بروز کن"
+
+#: velvet-blues-update-urls.php:281
+msgid "Learn More."
+msgstr "بیشتر بدانید"
+
+#: velvet-blues-update-urls.php:279
+msgid "GUIDs for posts should only be changed on development sites."
+msgstr "GUIDها در پست‌ها فقط باید در سایت‌های تغییر یافته تغییر داده شوند."
+
+#: velvet-blues-update-urls.php:277
+msgid "Update ALL GUIDs"
+msgstr "به روزرسانی همه GUIDها،"
+
+#: velvet-blues-update-urls.php:272
+msgid "URLs in custom fields and meta boxes"
+msgstr "لینک‌ها در فیلدهای سفارشی و جعبه‌های متا"
+
+#: velvet-blues-update-urls.php:267
+msgid "images, documents, general media"
+msgstr "تصاویر، اسناد، رسانه‌های عمومی"
+
+#: velvet-blues-update-urls.php:265
+msgid "URLs for attachments"
+msgstr "لینک‌‌ها برای پیوست‌ها"
+
+#: velvet-blues-update-urls.php:260
+msgid "URLs in links"
+msgstr "لینک‌ها در آدرس‌های اینترنتی"
+
+#: velvet-blues-update-urls.php:255
+msgid "URLs in excerpts"
+msgstr "لینک‌ها در گزیده‌ها"
+
+#: velvet-blues-update-urls.php:250
+msgid "posts, pages, custom post types, revisions"
+msgstr "پست‌ها، صفحات، انواع پست‌های سفارشی، بازبینی‌ها"
+
+#: velvet-blues-update-urls.php:248
+msgid "URLs in page content"
+msgstr "لینک‌ها در محتوای صفحه"
+
+#: velvet-blues-update-urls.php:241
+msgid "Choose which URLs should be updated"
+msgstr "انتخاب کنید که کدام لینک‌ها باید بروز شوند."
+
+#: velvet-blues-update-urls.php:232
+msgid "New Site Address"
+msgstr "آدرس سایت جدید"
+
+#: velvet-blues-update-urls.php:229
+msgid "New URL"
+msgstr "لینک‌ جدید"
+
+#: velvet-blues-update-urls.php:223
+msgid "Old Site Address"
+msgstr "آدرس سایت قدیمی"
+
+#: velvet-blues-update-urls.php:220
+msgid "Old URL"
+msgstr "لینک‌ قدیمی"
+
+#: velvet-blues-update-urls.php:215
+msgid "Enter your URLs in the fields below"
+msgstr "لینک‌های خود را در فیلد‌های زیر وارد کنید."
+
+#: velvet-blues-update-urls.php:213 velvet-blues-update-urls.php:239
+msgid "Step"
+msgstr "مرحله"
+
+#: velvet-blues-update-urls.php:210
+msgid "You may need to restore it if incorrect URLs are entered in the fields below."
+msgstr "اگر لینک‌های نادرست در فیلد‌های زیر وارد شوند ممکن است لازم باشد که آنها را بازگردانید."
+
+#: velvet-blues-update-urls.php:208
+msgid "WE RECOMMEND THAT YOU BACKUP YOUR WEBSITE."
+msgstr "توصیه می‌کنیم که از وب سایت خود پشتیبان بگیرید."
+
+#: velvet-blues-update-urls.php:206
+msgid "After moving a website, %s lets you fix old URLs in content, excerpts, links, and custom fields."
+msgstr "بعد از جابجایی یک وبسایت، %s به شما این امکان را می‌دهد که لینک‌های قدیمی‌ را در محتوا، گزیده‌ها، پیوندها و فیلدهای سفارشی جایگزین کنید."
+
+#: velvet-blues-update-urls.php:198
+msgid "Please enter values for both the old url and the new url."
+msgstr "لطفا مقادیر برای هر آدرس قدیمی و آدرس جدید را وارد کنید."
+
+#: velvet-blues-update-urls.php:190
+msgid "The safer, easier way to pay online!"
+msgstr "امن‌ترین و راحت ترین روش پرداخت آنلاین!"
+
+#: velvet-blues-update-urls.php:189
+msgid "If you found our plugin useful, %s please consider donating"
+msgstr "اگر افزونه ما را مفید یافتید %s لطفا به ما کمک مالی کنید."
+
+#: velvet-blues-update-urls.php:182
+msgid "Results"
+msgstr "نتایج"
+
+#: velvet-blues-update-urls.php:176
+msgid "Success! Your URLs have been updated."
+msgstr "موفقیت ‌آمیز! لینک‌های شما بروز شدند."
+
+#: velvet-blues-update-urls.php:165
+msgid "ERROR: Something may have gone wrong."
+msgstr "خطا: ممکن است چیزی اشتباه شده باشد."
+
+#: velvet-blues-update-urls.php:151
+msgid "We will backup your website and move it for $75 OR simply update your URLs for only $39."
+msgstr "ما از وب سایت شما پشتیبان گیری می‌کنیم و با $75 آن را انتقال می‌دهیم یا به سادگی لینک‌‌های شما را تنها با 29 دلار بروز رسانی می‌کنیم."
+
+#: velvet-blues-update-urls.php:151 velvet-blues-update-urls.php:299
+msgid "Contact us at"
+msgstr "با ما تماس بگیرید"
+
+#: velvet-blues-update-urls.php:151 velvet-blues-update-urls.php:297
+msgid "Want us to do it for you?"
+msgstr "می‌خواهید ما این کار را برای شما انجام دهیم؟"
+
+#: velvet-blues-update-urls.php:151
+msgid "This happens if a URL is incorrect OR if it is not found in the content. Check your URLs and try again."
+msgstr "اگر لینک‌ نادرست باشد یا در محتوا یافت نشود این اتفاق می‌افتد. لینک‌‌های خود را بررسی کنید و دوباره امتحان کنید."
+
+#: velvet-blues-update-urls.php:151
+msgid "Why do the results show 0 URLs updated?"
+msgstr "چرا نتایج نشان می‌دهد 0 نشانی اینترنتی به روز شده است؟!"
+
+#: velvet-blues-update-urls.php:135
+msgid "Please select at least one checkbox."
+msgstr "لطفا حداقل یک کادر را انتخاب کنید."
+
+#: velvet-blues-update-urls.php:135 velvet-blues-update-urls.php:167
+#: velvet-blues-update-urls.php:198
+msgid "Your URLs have not been updated."
+msgstr "لینک‌‌های شما بروز نشده‌اند."
+
+#: velvet-blues-update-urls.php:123
+msgid "Please try again."
+msgstr "لطفا دوباره تلاش کنید."
+
+#: velvet-blues-update-urls.php:123 velvet-blues-update-urls.php:135
+#: velvet-blues-update-urls.php:198
+msgid "ERROR"
+msgstr "خطا"
+
+#: velvet-blues-update-urls.php:48
+msgid "GUIDs"
+msgstr "GUID‌ها"
+
+#: velvet-blues-update-urls.php:47
+msgid "Custom Fields"
+msgstr "فیلدهای سفارشی"
+
+#: velvet-blues-update-urls.php:46
+msgid "Links"
+msgstr "لینک‌ها"
+
+#: velvet-blues-update-urls.php:45
+msgid "Attachments"
+msgstr "پیوست‌ها"
+
+#: velvet-blues-update-urls.php:44
+msgid "Excerpts"
+msgstr "چکیده‌ها"
+
+#: velvet-blues-update-urls.php:43
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr "انواع محتوا (پست‌ها، صفحات، انواع پست سفارشی، بازبینی‌ها)"
